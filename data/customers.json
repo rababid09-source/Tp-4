@@ -1,0 +1,40 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "Youssra Idrissi",
+    "city": "Marrakech",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Yassmine Laghzaoui",
+    "city": "Casablanca",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Sara Alaoui",
+    "city": "Rabat",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Nour Benali",
+    "city": "Meknes",
+    "active": false
+  },
+  {
+    "id": 5,
+    "name": "Lina Hassani",
+    "city": "Fes",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Aya Ouazzani",
+    "city": "Agadir",
+    "active": true
+  }
+]
