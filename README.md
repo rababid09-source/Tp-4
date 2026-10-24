@@ -30,3 +30,5 @@ des clientes, des produits cosmétiques et leurs commandes.
 2. Installer l'extension Live Server.
 3. Cliquer avec le bouton droit sur index.html.
 4. Choisir Open with Live Server.
+# Tp-4
+Application web de gestion d'un institut de beauté
